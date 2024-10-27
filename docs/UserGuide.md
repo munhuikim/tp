@@ -536,7 +536,7 @@ Allows users to quickly access previously entered commands using the up and down
 | **Undo**                    | `undo`<br> Reverts the last action taken                                                                                                                              |
 | **Redo**                    | `redo`<br> Reapplies the last action that was undone                                                                                                                  |
 | **Viewing Command History** | *No command needed*<br> Use the arrow keys to navigate through previous commands                                                                                      |
-| **View Student Details**    | `info INDEX` <br> isplays detailed information of a specific student at the given `INDEX` in a new window                                                             |
+| **View Student Details**    | `info INDEX` <br> displays detailed information of a specific student at the given `INDEX` in a new window                                                            |
 | **Editing the Data File**   | *No command*<br> Direct editing of the data JSON file (backup recommended)                                                                                            |
 | **Saving the Data**         | *Automatic*<br> Data is saved automatically to the storage file after each command                                                                                    |
 
